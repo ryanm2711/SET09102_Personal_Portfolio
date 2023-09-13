@@ -1,3 +1,15 @@
+## Getting Settled In The Team
+
+As a team we discussed on what the best way to communicate with one another and we eventually decided **Discord** would be best option as it's quick & easy, and everyone was already familiar with it.
+We got setup on that and have used that for a hub for any questions regarding the project - or if anyone needs additional support they can ask on there.
+
+## Setting Up My Personal Environment
+Luckily, I already had Visual Studio 2022 installed. However, I did not have the **MAUI** package that we would be using for this project. It was a fairly straightforward process installing it as I opened the **Visual Studio Installer** program and clicked **Modify** on my current installation. Then scrolling down I saw **MAUI** was already supported, so I just simply ticked and clicked **Install**.
+
+
+![MAUI Visual Studio Installer Image](https://github.com/[ryanm2711]/[SET09102_Personal_Portfolio]/blob/[main]/images/maui_visual_studio_installer.png?raw=true)
+
+
 # Setup
 
 This section documents your practical work in week 2.
