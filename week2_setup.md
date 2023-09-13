@@ -7,7 +7,7 @@ We got setup on that and have used that for a hub for any questions regarding th
 Luckily, I already had Visual Studio 2022 installed. However, I did not have the **MAUI** package that we would be using for this project. It was a fairly straightforward process installing it as I opened the **Visual Studio Installer** program and clicked **Modify** on my current installation. Then scrolling down I saw **MAUI** was already supported, so I just simply ticked and clicked **Install**.
 
 
-![MAUI Visual Studio Installer Image](https://github.com/[ryanm2711]/[SET09102_Personal_Portfolio]/blob/[main]/images/maui_visual_studio_installer.png?raw=true)
+![MAUI Visual Studio Installer Image](https://github.com/ryanm2711/SET09102_Personal_Portfolio/blob/main/images/maui_visual_studio_installer.png?raw=true)
 
 
 # Setup
