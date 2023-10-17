@@ -12,7 +12,7 @@ In this test we are checking to see if the ``bGameOver`` boolean value is true a
 [InlineData("Easy")]
 [InlineData("Medium")]
 [InlineData("Hard")]
-public void FindLetterInWord(string difficulty = "Easy")
+public void GameOverTest(string difficulty = "Easy")
 {
   GamePage page = new GamePage(difficulty); // Create a new object of game to do our tests
   page.remainingAttempts = 0; // Reset remaining attempts to 0
