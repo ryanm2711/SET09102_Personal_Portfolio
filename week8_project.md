@@ -1,21 +1,15 @@
-# Project work 1
+# Summary of Issue
+The client requested for UNDAC Team Support and Logistics Manager to be able to manage finacial records for OSOCC. This involved being able to create and update a resources for each operation.
 
-In week 8, you are exercising all the principles and techniques that have been discussed 
-in the module so far. Your portfolio entry should demonstrate your ability to integrate 
-the various dimensions of software engineering into your practice. It should include 
+# Code Snippet
+This is all the code snippet is due to various other team members already doing a lot of work with databases, making the task of adding new ways to store data a simple one liner. There is already methods created by others to fulfill the other tasks of the issue such as filtering resources.
+```csharp
+"CREATE TABLE IF NOT EXISTS operation_resource_request (Id INTEGER PRIMARY KEY AUTOINCREMENT, Name TEXT NOT NULL)",
+```
 
-* A descriptive summary of the issue that you worked on.
-* Snippets from your code with commentary showing how you have used good software design 
-  practice.
-* A descriptive summary of the test code that you have written.
-* A reflective summary of any changes that were requested during the code review along 
-  with your fixes.
-* A descriptive summary of any issues you found with the code that you were asked to review.
-* A general reflective section that identifies, for example,
-  * New things you have realised this week
-  * Common problems that can arise in a team development situation
-  * How your practice compares to other people's
-  * etc.
+# Any Code Changes Requested
+There were no code changes requested during the review, most likely due to the simplicity of the code.
 
-Be sure to include links to the original items in the team's GitHub repository.
+# Reflection
+I think this week hasn't been great in terms of knowing what to actually work on. This is due to certain members taking it upon themselves to complete just about every task, which has left most of us with little code snippets, not really showcasing our full ability.
 
