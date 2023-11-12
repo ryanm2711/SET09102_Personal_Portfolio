@@ -1,25 +1,14 @@
-# Project work 2
+# Transferring Teams
+For most of this week I spent getting settled into the new Blue Team. A fresh new team starting from scratch, this is why the work done this week is just setup stuff.
 
-Week 10 is the third and last week in a series in which the goal is to improve your 
-personal software engineering practice. Your portfolio entry has the same general content
-as last week's, including:
+# Setup
+While others wrote other setup documents, I wrote the workflow the new team will be using. This workflow consists of two branches: **master** and **dev**. Here is a quick rough step-by-step of the workflow:
+[A more in depth look at the workflow here](https://github.com/AloiSan/UndacBlue/blob/dev/Documentation/workflow.md)
 
-* A descriptive summary of the issue that you worked on.
-* Snippets from your code with commentary showing how you have used good software design 
-  practice.
-* A descriptive summary of the test code that you have written.
-* A reflective summary of any changes that were requested during the code review along 
-  with your fixes.
-* A descriptive summary of any issues you found with the code that you were asked to review.
-* A general reflective section that identifies, for example,
-  * New things you have realised this week
-  * Common problems that can arise in a team development situation
-  * How your practice compares to other people's
-  * etc.
+<li>Pick out an issue and move it into the in progress tab on project board. Then assign yourself to issue</li>
+<li>Create a new branch and name it <b>feature/#issue_number, have it based on the dev branch.</b></li>
+<li>Once finished with your work, submit a pull request into <b>dev</b> branch. Once someone has reviewed it, commit the merge.</li>
+<li>At the end of the week all the work in dev will be merged into master, this will keep the work consistent in dev but also avoid the issue of master being heavily outdated and causing confusion.</li>
 
-Be sure to include links to the original items in the team's GitHub repository.
-
-In the reflective sections this week, you should highlight ways that you persona practice
-has improved as before. It would also be good to reflect on any improvements that have
-been made to the agreed team workflow and related procedures. Are things working
-better than they were? What further improvements could be made in the future?
+# Reflection
+Due to it being a new team the work at first will be slow, but I'm hopeful for it to ramp up next week after the discussion with our lecturer in the direction the blue team will be going. I feel that everyone is integrating into the new team well, with others getting the setup material done. Which should help for us to have a jump start at the real work next week.
