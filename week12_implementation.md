@@ -1,3 +1,6 @@
+# My Issue This Week
+This week I worked on allowing UNDAC members to define system types, store them in a database, and list them on their app. This also involved all the CRUD operations required, such as editing, deleting, saving. 
+
 # Code Snippet
 
 ## Model
